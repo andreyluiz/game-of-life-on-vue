@@ -1,4 +1,4 @@
-# game-of-life-on-vue
+# Game of Life on Vue.js
 
 ## Project setup
 ```
